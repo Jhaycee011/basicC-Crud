@@ -1,0 +1,14 @@
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\bin\Debug\net8.0\crud_app.exe
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\bin\Debug\net8.0\crud_app.deps.json
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\bin\Debug\net8.0\crud_app.runtimeconfig.json
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\bin\Debug\net8.0\crud_app.dll
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\bin\Debug\net8.0\crud_app.pdb
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.AssemblyInfoInputs.cache
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.AssemblyInfo.cs
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.csproj.CoreCompileInputs.cache
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.dll
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\refint\crud_app.dll
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.pdb
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\crud_app.genruntimeconfig.cache
+C:\Users\ceejh\OneDrive\Documents\code\crud\crud_app\obj\Debug\net8.0\ref\crud_app.dll
